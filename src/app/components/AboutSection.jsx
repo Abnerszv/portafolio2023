@@ -36,6 +36,7 @@ const TAB_DATA = [
         <ul className="list-disc pl-2">
           <li><Link className='hover:text-[#346e94]' href={"https://www.linkedin.com/in/abnerszv/"}>Linkedin</Link></li>
           <li><Link className='hover:text-[#dd2a7b] ' href={"https://www.instagram.com/abnerszv/"}>Instagram</Link></li>
+          <li><Link className='hover:text-[#aa2add] ' href={"https://www.behance.net/abnerzv1"}>Behance</Link></li>
           <li>abnerzv10@gmail.com</li>
         </ul>
       ),
